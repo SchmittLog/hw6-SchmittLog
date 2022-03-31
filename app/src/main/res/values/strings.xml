@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Homework6</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string-array name="Length">
+        <item>Yards</item>
+        <item>Meters</item>
+        <item>Miles</item>
+    </string-array>
+
+    <string-array name="Volume">
+        <item>Gallons</item>
+        <item>Liters</item>
+        <item>Quarts</item>
+    </string-array>
+</resources>
